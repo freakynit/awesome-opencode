@@ -1,0 +1,4 @@
+name: OpenCode Pagey
+repo: https://github.com/freakynit/opencode-pagey
+tagline: Publish static sites from OpenCode v2 to free Pagey hosting with unlimited total sites.
+description: Preview a static build, approve the upload, and publish it to an HTTPS Pagey subdomain from your OpenCode conversation. Update existing sites at the same URL, search deployments, and manage titles, expiry, and password protection. Uses OpenCode v2 permissions and upload digests. Registered accounts include 25 new sites per UTC day with no cap on total sites; upload and request limits apply.
